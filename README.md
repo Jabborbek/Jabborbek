@@ -1,4 +1,4 @@
-![Welcome!](COIp95v7.gif)
+![Welcome!](Jabborbek Qobilov.gif)
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jabborbek&theme=github_dark" alt="info">
