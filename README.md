@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jabborbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jabborbek&show_icons=true&theme=radical)
+
+[![Jabborbek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jabborbek)](https://github.com/Jabborbek/github-readme-stats)
